@@ -34,7 +34,7 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008116778</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>A young Russian woman falls in love with a Bulgarian patriot on the eve of the Crimean War.</dc:abstract>
+		<meta property="schema:abstract">A young Russian woman falls in love with a Bulgarian patriot on the eve of the Crimean War.</meta>
 		<dc:description>
 			&lt;p&gt;Elena Nikolaevna Stahov is a young, passionate woman from a wealthy background. Two men pursue her—Andrei Petrovitch Bersenyev, a serious-minded student of philosophy, and Pavel Yakovlitch Shubin, a free-spirited sculptor. Soon, however, another young man enters her life: Dmitri Nikanorovitch Insarov, a Bulgarian patriot who yearns to free his people from the Ottoman Turks. As the storm clouds of the Crimean War gather, Elena Nikolaevna falls in love with Insarov, setting in motion a series of events that will change their lives forever.&lt;/p&gt;
 			&lt;p&gt;Though &lt;i&gt;On the Eve&lt;/i&gt; is &lt;a href="https://standardebooks.org/ebooks/ivan-turgenev"&gt;Ivan Turgenev’s&lt;/a&gt; third novel, he actually began working on it before he published his first novel, &lt;i&gt;Rudin&lt;/i&gt;. The love story, which is the central focus of the plot, is based on the accounts of a Russian man who left to fight in the Crimean War, who had given Turgenev a notebook before he departed. While the title is correctly translated as “On the Eve,” the strength of the character Elena has inspired such interest that the first French translation was titled &lt;i&gt;Éléna&lt;/i&gt;, and the German translation was titled &lt;i&gt;Helena&lt;/i&gt;.&lt;/p&gt;
