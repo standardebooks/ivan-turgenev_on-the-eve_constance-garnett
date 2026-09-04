@@ -30,7 +30,7 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">On the Eve</dc:title>
 		<meta property="file-as" refines="#title">On the Eve</meta>
-		<dc:subject id="subject-1">Russia -- Social life and customs -- Fiction</dc:subject>
+		<dc:subject id="subject-1">Russia--Social life and customs--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008116778</meta>
 		<meta property="schema:genre">Fiction</meta>
